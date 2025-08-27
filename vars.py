@@ -19,4 +19,5 @@ if int(OWNER) not in AUTH_USERS:
     AUTH_USERS.append(int(OWNER))
 
 # API endpoint for extracting keys
-API_ENDPOINT = "https://cpapi-ytas.onrender.com/extract_keys?url={url}@bots_updatee&user_id={user_id}"
+API_ENDPOINT = "https://cpatbots-updatee.onrender.com/extract_keys?url={url}@bots_updatee&user_id={user_id}}"
+
